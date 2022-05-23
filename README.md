@@ -1,9 +1,9 @@
 # MySQL Employee Tracker
 
 ## Table of Contents
--[Description](#description:)
--[User Story](#user-stories)
--[Screenshots](#screenshots:)
+-[Description](#description:);
+-[User Story](#user-stories);
+-[Screenshots](#screenshots:)git
 
 
 ## Description
